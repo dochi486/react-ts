@@ -6,12 +6,6 @@
 - 컨텍스트 API를 활용하여 투두를 추가하고 제거하는 로직을 구현했습니다.
 
 ### Environments
-- @testing-library/jest-dom": "^5.11.10
-- @testing-library/react": "^11.2.6
-- @testing-library/user-event": "^12.8.3
-- @types/jest": "^26.0.22
-- @types/node": "^12.20.7
-- @types/react": "^17.0.50
 - react": "^18.0.0
 - react-dom": "^18.0.0
 - react-scripts": "4.0.3
